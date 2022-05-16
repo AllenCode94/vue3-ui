@@ -8,6 +8,7 @@
     />
     <p>your name: {{ name }}</p>
     <button @click="useSon">点击</button>
+    <a href="../assets/logo.png" >下载app</a>
   </div>
 </template>
 
